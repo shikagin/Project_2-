@@ -1,2 +1,2 @@
 # Project_2-
-Odin Project (Project number tow )
+making a Rock paper Scissors game :)
